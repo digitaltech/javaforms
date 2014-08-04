@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="javaforms.jnlp">
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="JavaFXApplication4.jnlp">
   <information>
-    <title>javaforms</title>
-    <vendor>sourabh</vendor>
+    <title>JavaFXApplication4</title>
+    <vendor>user</vendor>
     <description>null</description>
     <offline-allowed/>
   </information>
@@ -11,11 +11,11 @@
   </resources>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="javaforms.jar" size="2228" download="eager" />
+    <jar href="JavaFXApplication4.jar" size="17957" download="eager" />
   </resources>
-  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="javaforms" >
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="JavaFXApplication4" >
     <param name="requiredFXVersion" value="2.2+"/>
   </applet-desc>
-  <jfx:javafx-desc  width="800" height="600" main-class="JavaForms.Javaforms"  name="javaforms" />
+  <jfx:javafx-desc  width="800" height="600" main-class="javafxapplication4.JavaFXApplication4"  name="JavaFXApplication4" />
   <update check="always"/>
 </jnlp>
