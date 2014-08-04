@@ -1,0 +1,1 @@
+When the application is launched. The at first we need to load the application and check if there is an internet connection available or not. If there is no internet connectivity available then the user must not be shown standard web error message but should only be shown the message that there is not internet connectivity available at present.
